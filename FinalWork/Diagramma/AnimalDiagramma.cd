@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalWork.Model.Animal" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Camel" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Camel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Cat" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Dog" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Donkey" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Donkey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Hamster" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Hamster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalWork.Model.Horse" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAEAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using FinalWork.View;
+
+while (true)
+{
+    var animal = AnimalView.SelectCommand();
+    if (animal != null)
+        AnimalView.AddAnimal(animal);
+    else
+        break;
+}
